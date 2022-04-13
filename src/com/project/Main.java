@@ -3,6 +3,6 @@ package com.project;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Customer c = new Customer(12,"test customer",'m');
     }
 }
